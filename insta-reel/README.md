@@ -1,18 +1,61 @@
 # 📸 Insta Reels That Say It All
 
-This folder curates the Instagram Reels energy of the project:  
+This folder curates the Instagram Reels energy:  
 Fun. Bold. A little over it. Still fabulous.
 
-## 📚 Reel Ideas:
-- “If job interviews were a dating show”  
-- “My face when I get ghosted after the final round”  
-- “Working a job that’s emotionally unavailable: a mini romcom”
+Got a Reel? DM me on [LinkedIn](https://linkedin.com/in/marifedomanski) or tag @9to5situationship and we’ll feature you here!
+
+## 📚 Reel links:
+
+| # | Reels Title  | Reels Link | 
+|--:|------------|--------|
+| 1 |  |  |
+| 2 |  |  |
+| 3 | |  |
+| 4 | |  | 
+| 5 |  |  | 
+| 6 | | | 
+| 7 |  |  | 
+| 8 |  |  | 
+| 9 |  |  | 
+|10 |  | | 
+|11 | |  | 
+|12 |  | | 
+|13 |  | | 
+|14 |  |  | 
+|16 |  |  | 
+|17 |  |  | 
+|18 | | | 
+|19 |  | | 
+|20 |  |  | 
+
 
 ## ✍️ Captions that hit:
-- Just out here looking for a role that texts back.
-- If ghosting was a professional sport, they’d be Olympic-level. 🥇
-- Situationships, but corporate. You get it.
+
+
+| # | Captions | Link | 
+|--:|------------|--------|
+| 1 |  |  |
+| 2 |  |  |
+| 3 | |  |
+| 4 | |  | 
+| 5 |  |  | 
+| 6 | | | 
+| 7 |  |  | 
+| 8 |  |  | 
+| 9 |  |  | 
+|10 |  | | 
+|11 | |  | 
+|12 |  | | 
+|13 |  | | 
+|14 |  |  | 
+|16 |  |  | 
+|17 |  |  | 
+|18 | | | 
+|19 |  | | 
+|20 |  |  | 
+
 
 ---
 
-Got a Reel? DM me on [LinkedIn](https://linkedin.com/in/YOURHANDLE)or tag @yourhandle and we’ll feature you here!
+
