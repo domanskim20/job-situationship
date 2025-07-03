@@ -73,7 +73,7 @@ Just open a PR (pull request) or DM (direct message) on [LinkedIn](https://linke
 ## 🧠 Product Owner Notes
 
 This project is part playground, part proof-of-concept:
-- Showing PM (Product & Project Management + content strategy chops  
+- Showing PM (Product & Project Management + content strategy)  
 - Practicing community-driven design  
 - Experimenting with formats across GitHub + social media  
 - Building a vibe-first product with real UX principles (even if it’s mostly memes)
